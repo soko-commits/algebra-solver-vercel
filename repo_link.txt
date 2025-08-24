@@ -1,2 +1,3 @@
+code /home/user/algebra-solver-vercel/repo_link.txt
 GitHub (Web App): https://github.com/soko-commits/algebra-solver-vercel
 Web App: https://algebra-solver-vercel.vercel.app
